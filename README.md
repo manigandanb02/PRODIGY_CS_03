@@ -126,6 +126,14 @@ python3 image_encrypt.py
 
 ---
 
+## Demo Video
+
+Watch the project demonstration on LinkedIn:
+
+[LinkedIn Demo Video](https://www.linkedin.com/posts/manigandanb02_prodigyinfotech-cybersecurity-python-ugcPost-7473822300539215873-bh77/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ8ul4BQ42d707c6KxMYCd3agIPNUqbyhA)
+
+---
+
 # 🔐 Encryption Process
 
 During encryption:
